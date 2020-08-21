@@ -1,1 +1,1 @@
-# D2B
+# Decimal to binary
